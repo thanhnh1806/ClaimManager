@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Claim Manager</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Signin</string>
+    <string name="help_register">Help / Register</string>
+    <string name="title_activity_home_controller">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="my_account">My Acount</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="about_feedback">About / Feedback</string>
+    <string name="logout">Log Out</string>
+
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="case_management">Case Management</string>
+    <string name="maps">Maps</string>
+    <string name="forms">Forms</string>
+    <string name="call">Call</string>
+    <string name="open_case">Open Case</string>
+    <string name="add_contact">Add contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
